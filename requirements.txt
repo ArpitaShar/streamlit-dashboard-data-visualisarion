@@ -40,7 +40,7 @@ exceptiongroup==1.1.2
 executing==1.2.0
 fastjsonschema==2.16.3
 filelock==3.12.0
-Fiona @ file:///F:/Temp/Automation/Girish/whls/Fiona-1.8.21-cp38-cp38-win_amd64.whl
+Fiona==1.8.21
 Flask==2.3.1
 Flask-Caching==2.0.2
 Flask-Cors==3.0.10
@@ -48,7 +48,7 @@ flask-restx==1.1.0
 folium==0.13.0
 fonttools==4.39.3
 fqdn==1.5.1
-GDAL @ file:///F:/Temp/Automation/Girish/whls/GDAL-3.4.3-cp38-cp38-win_amd64.whl
+GDAL==3.4.3
 gdown==4.7.1
 geographiclib==2.0
 geojson==3.0.1
@@ -132,7 +132,7 @@ pydeck==0.8.1b0
 Pygments==2.15.1
 Pympler==1.0.1
 pyparsing==3.0.9
-pyproj @ file:///F:/Temp/Automation/Girish/whls/pyproj-3.3.1-cp38-cp38-win_amd64.whl
+pyproj==3.3.1
 pyrsistent==0.19.3
 pyshp==2.3.1
 PySocks==1.7.1
@@ -147,21 +147,21 @@ pywin32==306
 pywinpty==2.0.10
 PyYAML==6.0
 pyzmq==25.0.2
-rasterio @ file:///F:/Temp/Automation/Girish/whls/rasterio-1.2.10-cp38-cp38-win_amd64.whl
+rasterio==1.2.10
 rasterstats==0.18.0
 reportlab==4.0.4
 requests==2.28.2
 rfc3339-validator==0.1.4
 rfc3986-validator==0.1.1
 rich==13.3.4
-Rtree @ file:///F:/Temp/Automation/Girish/whls/Rtree-1.0.0-cp38-cp38-win_amd64.whl
+Rtree==1.0.0
 scikit-learn==1.2.2
 scipy==1.10.1
 scooby==0.7.1
 selenium==4.11.2
 Send2Trash==1.8.0
 server-thread==0.2.0
-Shapely @ file:///F:/Temp/Automation/Girish/whls/Shapely-1.8.2-cp38-cp38-win_amd64.whl
+Shapely==1.8.2
 simplejson==3.19.1
 six==1.16.0
 smmap==5.0.0
